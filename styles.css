@@ -1,0 +1,97 @@
+/* Set default font family and size */
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+  }
+  
+  /* Center main content */
+  h1, p, h2, ul, ol {
+    text-align: center;
+  }
+  
+  /* Style headings */
+  h1 {
+    font-size: 36px;
+    margin-top: 50px;
+  }
+  
+  h2 {
+    font-size: 24px;
+    margin-top: 30px;
+  }
+  
+  /* Style links */
+  a {
+    color: #0000FF;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Style lists */
+  ul, ol {
+    list-style: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-top: 10px;
+  }
+  
+  /* Style steps */
+  ol li {
+    font-style: italic;
+    margin-top: 20px;
+  }
+  
+  /* Style footer */
+  footer {
+    margin-top: 50px;
+    text-align: center;
+    font-size: 14px;
+    color: #666;
+  }
+  
+  /* Add background colors */
+  body {
+    background-color: #F9F6F0;
+  }
+  
+  h1, h2 {
+    background-color: #F5B7B1;
+    padding: 10px;
+    border-radius: 5px;
+    color: #FFF;
+  }
+  
+  ul {
+    background-color: #D5F5E3;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  
+  li:hover {
+    background-color: #AED6F1;
+    border-radius: 5px;
+  }
+  
+  ol {
+    background-color: #FDEBD0;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  
+  ol li {
+    background-color: #FAD7A0;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  footer {
+    background-color: #EBDEF0;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
