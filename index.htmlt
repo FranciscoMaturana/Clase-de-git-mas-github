@@ -26,7 +26,7 @@
     <h2>Agregar estudiante</h2>
     <p>Si eres estudiante y quieres agregar tu información a la lista, sigue los siguientes pasos:</p>
     <ol>
-      <li>Crea un fork del repositorio</li>
+      <li href="https://github.com/FranciscoMaturana/Clase-de-git-mas-github/tree/main">Crea un fork del repositorio</li>
       <li>Clona el repositorio en tu computadora</li>
       <li>Agrega tu nombre y LinkedIn al archivo correspondiente</li>
       <li>Haz commit y push a tu fork</li>
